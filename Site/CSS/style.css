@@ -1,0 +1,70 @@
+h1
+{
+	text-align: center;
+	background-color: red;
+}
+h2
+{
+  text-align: center;
+	background-color: white;
+	color: black;
+}
+#lol_2 
+{
+	font-style: Arial;
+  color: white;
+}
+.container {
+    width: 20px;
+    height: 160px;
+}
+body {
+ background-image: url("paper.gif");
+ background-color: #cccccc;
+}
+html, body {
+    padding: 0;
+    margin: 0;
+}
+body {
+    background:  no-repeat url("https://wallpaperaccess.com/full/459246.jpg"); /* change this to your background image */
+    width: 900px;
+}
+
+.containere {
+    background: ;
+    width: 400px; /* adjust this to the proper width */
+    margin: 0 auto;
+}
+#lol_1 
+{
+	font-style: Arial;
+  color: white;
+}
+p
+{
+  text-align: center;
+	background-color: black;
+	font-style: Arial;
+  color: white;
+}
+P {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em
+}
